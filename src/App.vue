@@ -91,13 +91,6 @@ export default {
     prompt:false,
     deferred:null,
     addtoscreendialog:false,
-    links:[
-      {
-        name:"VTuber按钮合集/vtbBtn",
-        href:"https://vtbbtn.org/",
-        color:"orange lighten-1"
-      }
-    ],
     //
   }),
   mounted(){

@@ -41,7 +41,7 @@
         color="#f69"
         @click="See('https://space.bilibili.com/249118')"
       >
-        <v-icon left class="iconfont icon-bilibili"></v-icon>shoureiN
+        <v-icon left class="iconfont icon-bilibili"></v-icon>shourei小N
       </v-btn>
       <v-spacer></v-spacer>
       <v-btn v-on="on" fab icon @click="DarkMode()">
