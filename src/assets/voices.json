@@ -1,0 +1,108 @@
+{
+    "groups": [{
+            "name": "gachi",
+            "translation": {
+                "Chinese": "gachi",
+                "Japanese": "gachi",
+                "English": "gachi"
+            },
+            "voicelist": [{
+                    "name": "初次见面 我叫笹木咲",
+                    "path": "./gachi/初次见面 我叫笹木咲.mp3",
+                    "translation": {
+                        "Chinese": "初次见面 我叫笹木咲~",
+                        "Japanese": "初めて、笹木咲といいます",
+                        "English": "Hello for the first time, my name is Sasaki Saku"
+                    }
+                },
+                {
+                    "name": "来啦来啦",
+                    "path": "./gachi/来啦来啦.mp3",
+                    "translation": {
+                        "Chinese": "来啦来啦",
+                        "Japanese": "はい はい~",
+                        "English": "Hai Hai~"
+                    }
+                },
+                {
+                    "name": "谢谢呀哟",
+                    "path": "./gachi/谢谢呀哟.mp3",
+                    "translation": {
+                        "Chinese": "谢谢呀哟",
+                        "Japanese": "ありがとやよ",
+                        "English": "Thank you yayo~"
+                    }
+                },
+                {
+                    "name": "呀哟呀哟",
+                    "path": "./gachi/呀哟呀哟.mp3",
+                    "translation": {
+                        "Chinese": "呀哟呀哟",
+                        "Japanese": "やよやよ",
+                        "English": "Yayo yayo"
+                    }
+                },
+                {
+                    "name": "mua",
+                    "path": "./gachi/mua.mp3",
+                    "translation": {
+                        "Chinese": "mua",
+                        "Japanese": "mua",
+                        "English": "mua"
+                    }
+                }
+
+            ]
+        },
+        {
+            "name": "an笹",
+            "translation": {
+                "Chinese": "an笹",
+                "Japanese": "an笹",
+                "English": "anki"
+            },
+            "voicelist": [{
+
+                "name": "你们欺负我，明明我唱的那么认真",
+                "path": "./an笹/你们欺负我，明明我唱的那么认真.mp3",
+                "translation": {
+                    "Chinese": "你们欺负我，明明我唱的那么认真",
+                    "Japanese": "あなたは私をいじめます、明らかに私はとても真剣に歌います",
+                    "English": "You bullied me, obviously I sing so seriously"
+                }
+
+            },
+            {
+                "name": "好痛啊 别打了",
+                "path": "./an笹/好痛啊 别打了.mp3",
+                "translation": {
+                    "Chinese": "好痛啊 别打了",
+                    "Japanese": "痛い、殴らないで",
+                    "English": "It hurts, don't hit me"
+                }
+            },
+            {
+                "name": "别打了 别打了",
+                "path": "./an笹/别打了 别打了.mp3",
+                "translation": {
+                    "Chinese": "别打了 别打了",
+                    "Japanese": "殴らないで 殴らないで",
+                    "English": "Don't hit me, don't hit me"
+                }
+            },
+            {
+                "name": "你这样会让我讨厌你的哦 你居然真下的了手 居然下手那么重",
+                "path": "./an笹/你这样会让我讨厌你的哦 你居然真下的了手 居然下手那么重.mp3",
+                "translation": {
+                    "Chinese": "你这样会让我讨厌你的哦 你居然真下的了手 居然下手那么重",
+                    "Japanese": "あなたは私をあなたがこのように嫌うようにします。あなたは実際にそれをしました。",
+                    "English": "You make me hate you like this. You actually did it. It was so heavy."
+                }
+            }
+        ]
+        }
+
+
+
+    ]
+}
