@@ -74,7 +74,7 @@ export default {
   data: () =>({
     langs: [
       { title: "简体中文", src: "zhHans", isready: true },
-      { title: "English", src: "en", isready: true},
+      // { title: "English", src: "en", isready: true},
     ]
   }),
   methods: {
