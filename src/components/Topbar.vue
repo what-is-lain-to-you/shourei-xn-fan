@@ -18,7 +18,7 @@
           </v-list-item>
           <v-list-item @click="See('https://space.bilibili.com/249118/')">
             <v-list-item-title>
-              <v-icon left color="#f69" calss="iconfont icon-bilibili"></v-icon>shourei小N
+              <v-icon left color="#f69" class="iconfont icon-bilibili"></v-icon>shourei小N
             </v-list-item-title>
           </v-list-item>
         </v-list>
