@@ -113,22 +113,6 @@
                 }
             },
             {
-                "name": "Hihiyihihi~",
-                "path": "./shourei/Hihiyihihi.mp3",
-                "translation": {
-                    "Chinese": "Hihiyihihi~",
-                    "English": ""
-                }
-            },
-            {
-                "name": "其实我...我很喜欢舰长",
-                "path": "./shourei/其实我很喜欢舰长.mp3",
-                "translation": {
-                    "Chinese": "其实我...我很喜欢舰长",
-                    "English": ""
-                }
-            },
-            {
                 "name": "其实我...我很喜欢舰长",
                 "path": "./shourei/其实我很喜欢舰长.mp3",
                 "translation": {
