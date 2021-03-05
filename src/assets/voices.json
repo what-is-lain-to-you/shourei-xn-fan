@@ -103,7 +103,58 @@
                     "Chinese": "新的一年,还请舰长多多关照",
                     "English": ""
                 }
+            },
+            {
+                "name": "Hihiyihihi~",
+                "path": "./shourei/Hihiyihihi.mp3",
+                "translation": {
+                    "Chinese": "Hihiyihihi~",
+                    "English": ""
+                }
+            },
+            {
+                "name": "Hihiyihihi~",
+                "path": "./shourei/Hihiyihihi.mp3",
+                "translation": {
+                    "Chinese": "Hihiyihihi~",
+                    "English": ""
+                }
+            },
+            {
+                "name": "其实我...我很喜欢舰长",
+                "path": "./shourei/其实我很喜欢舰长.mp3",
+                "translation": {
+                    "Chinese": "其实我...我很喜欢舰长",
+                    "English": ""
+                }
+            },
+            {
+                "name": "其实我...我很喜欢舰长",
+                "path": "./shourei/其实我很喜欢舰长.mp3",
+                "translation": {
+                    "Chinese": "其实我...我很喜欢舰长",
+                    "English": ""
+                }
+            },
+            {
+                "name": "舰长大人,快回来吧,我在崩坏的世界等你哦",
+                "path": "./shourei/舰长大人快回来吧.mp3",
+                "translation": {
+                    "Chinese": "舰长大人,快回来吧,我在崩坏的世界等你哦",
+                    "English": ""
+                }
+            },
+            {
+                "name": "米忽悠,真是可疑的组织",
+                "path": "./shourei/米忽悠真是可疑的组织.mp3",
+                "translation": {
+                    "Chinese": "米忽悠,真是可疑的组织",
+                    "English": ""
+                }
             }
+
+
+            
             
 
 
