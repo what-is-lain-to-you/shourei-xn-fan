@@ -8,21 +8,20 @@
             },
             "voicelist": [{
 
-                "name": "赤鸢仙人，我是你的粉丝啊！",
-                "path": "./shourei/赤鸢仙人.mp3",
+                "name": "赤鸢仙人,我是你的粉丝啊！",
+                "path": "./shourei/赤鸢仙人，我是你的粉丝啊！.mp3",
                 "translation": {
-                    "Chinese": "赤鸢仙人，我是你的粉丝啊！",
-                    "English": "You bullied me, obviously I sing so seriously"
+                    "Chinese": "赤鸢仙人,我是你的粉丝啊！",
+                    "English": ""
                 }
 
             },
             {
-                "name": "德莉莎大人，我是你的粉丝啊！",
-                "path": "./shourei/德莉莎大人.mp3",
+                "name": "德莉莎大人,我是你的粉丝啊！",
+                "path": "./shourei/德莉莎大人，我是你的粉丝啊！.mp3",
                 "translation": {
-                    "Chinese": "德莉莎大人，我是你的粉丝啊！",
-                    "Japanese": "殴らないで 殴らないで",
-                    "English": "Don't hit me, don't hit me"
+                    "Chinese": "德莉莎大人,我是你的粉丝啊！",
+                    "English": ""
                 }
             },
             {
@@ -30,8 +29,7 @@
                 "path": "./shourei/大家好.mp3",
                 "translation": {
                     "Chinese": "大家好",
-                    "Japanese": "痛い、殴らないで",
-                    "English": "It hurts, don't hit me"
+                    "English": ""
                 }
             },
             {
@@ -39,10 +37,59 @@
                 "path": "./shourei/牛蛙1.mp3",
                 "translation": {
                     "Chinese": "牛蛙",
-                    "Japanese": "あなたは私をあなたがこのように嫌うようにします。あなたは実際にそれをしました。",
-                    "English": "You make me hate you like this. You actually did it. It was so heavy."
+                    "English": ""
+                }
+            },
+            {
+                "name": "哼！",
+                "path": "./shourei/哼.mp3",
+                "translation": {
+                    "Chinese": "哼！",
+                    "English": ""
+                }
+            },
+            {
+                "name": "舰长,丽塔超喜欢你的！",
+                "path": "./shourei/舰长，丽塔超喜欢你的！.mp3",
+                "translation": {
+                    "Chinese": "舰长,丽塔超喜欢你的！",
+                    "English": ""
+                }
+            },
+            {
+                "name": "舰长,这个月工资什么时候发呀,丽塔都要穷死了,没有钱吃饭了",
+                "path": "./shourei/舰长，这个月工资什么时候发呀，丽塔都要穷死了，没有钱吃饭了！.mp3",
+                "translation": {
+                    "Chinese": "舰长,这个月工资什么时候发呀,丽塔都要穷死了,没有钱吃饭了",
+                    "English": ""
+                }
+            },
+            {
+                "name": "老板,你回来了",
+                "path": "./shourei/老板，你回来了.mp3",
+                "translation": {
+                    "Chinese": "老板,你回来了",
+                    "English": ""
+                }
+            },
+            {
+                "name": "丽塔射线,biu~",
+                "path": "./shourei/丽塔射线.mp3",
+                "translation": {
+                    "Chinese": "丽塔射线,biu~",
+                    "English": ""
+                }
+            },
+            {
+                "name": "怎么就这点,根本不够嘛",
+                "path": "./shourei/怎么就这点.mp3",
+                "translation": {
+                    "Chinese": "怎么就这点,根本不够嘛",
+                    "English": ""
                 }
             }
+
+
         ]
         }
 
