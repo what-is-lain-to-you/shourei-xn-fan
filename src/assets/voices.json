@@ -135,6 +135,94 @@
                     "Chinese": "米忽悠,真是可疑的组织",
                     "English": ""
                 }
+            },
+            {
+                "name": "锅巴,喷火！",
+                "path": "./shourei/锅巴喷火.mp3",
+                "translation": {
+                    "Chinese": "锅巴,喷火！",
+                    "English": ""
+                }
+            },
+            {
+                "name": "小N的笑",
+                "path": "./shourei/笑1.mp3",
+                "translation": {
+                    "Chinese": "小N的笑",
+                    "English": ""
+                }
+            },
+            {
+                "name": "可莉真是个可爱的孩子...抱歉,我失态了",
+                "path": "./shourei/可莉真是个可爱的孩子.mp3",
+                "translation": {
+                    "Chinese": "可莉真是个可爱的孩子...抱歉,我失态了",
+                    "English": ""
+                }
+            },
+            {
+                "name": "前面的区域,以后再来探索吧",
+                "path": "./shourei/前面的区域以后再来探索吧.mp3",
+                "translation": {
+                    "Chinese": "前面的区域,以后再来探索吧",
+                    "English": ""
+                }
+            },
+            {
+                "name": "进不去啊,进不去!怎么想都进不去吧",
+                "path": "./shourei/进不去.mp3",
+                "translation": {
+                    "Chinese": "进不去啊,进不去!怎么想都进不去吧",
+                    "English": ""
+                }
+            },
+            {
+                "name": "舰舰,快去给我扫甲板做饭",
+                "path": "./shourei/贱贱.mp3",
+                "translation": {
+                    "Chinese": "舰舰,快去给我扫甲板做饭",
+                    "English": ""
+                }
+            },
+            {
+                "name": "舰长大人,真是一只没用的猪呢",
+                "path": "./shourei/贱贱.mp3",
+                "translation": {
+                    "Chinese": "舰长大人,真是一只没用的猪呢",
+                    "English": ""
+                }
+            },
+            {
+                "name": "起床语音",
+                "path": "./shourei/起床语音.mp3",
+                "translation": {
+                    "Chinese": "起床语音",
+                    "English": ""
+                }
+            },
+            {
+                "name": "来电语音",
+                "path": "./shourei/来电语音.mp3",
+                "translation": {
+                    "Chinese": "来电语音",
+                    "English": ""
+                }
+            },
+            {
+                "name": "小N真是一个很可爱的...",
+                "path": "./shourei/小N真是一个很可爱的.mp3",
+                "translation": {
+                    "Chinese": "小N真是一个很可爱的...",
+                    "English": ""
+                }
+            },
+            {
+                "name": "[特典]医务室",
+                "path": "./shourei/打针时间.mp3",
+                "translation": {
+                    "Chinese": "[特典]医务室",
+                    "English": ""
+                }
             }
 
 
